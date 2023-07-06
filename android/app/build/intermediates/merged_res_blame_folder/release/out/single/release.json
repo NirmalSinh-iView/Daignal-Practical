@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster6.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster6.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_placeholder_for_missing_posters.png.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_placeholder_for_missing_posters.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster7.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster7.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster4.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster4.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster8.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster8.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster9.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster9.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.diagnalpractical.app-main-23:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster3.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster3.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster2.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster2.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster1.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster1.jpg"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.diagnalpractical.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.diagnalpractical.app-merged_res-22:/drawable-mdpi_src_assets_images_poster5.jpg.flat",
+        "source": "com.diagnalpractical.app-res-16:/drawable-mdpi/src_assets_images_poster5.jpg"
+    }
+]
